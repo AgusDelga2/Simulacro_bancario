@@ -1,6 +1,8 @@
 # Simulación bancaria
 
-El siguiente script es una simulación bancaria con programación orientada a objetos que incluye clases para manejar clientes, cuentas de ahorro y plazos fijos. 
+El siguiente script es una simulación bancaria con programación orientada a objetos que incluye clases para manejar clientes, cuentas de ahorro y plazos fijos.
+
+Fecha: 2021
 
 
 ### Clases y Métodos
